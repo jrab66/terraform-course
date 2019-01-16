@@ -5,9 +5,9 @@
 * practice development
 # Demo overview
 Demo Directory | Description
------------- | -------------
-first-steps | First steps
-demo-1 | First steps: Launching an EC2 instance
+------------ | ------------- | ------------- 
+first-steps | First steps | Status
+demo-1 | First steps: Launching an EC2 instance | :metal:
 demo-2 | Using provisioner
 demo-2b | Using provisioner on a Windows instance
 demo-3 | Executing script locally
