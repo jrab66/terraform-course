@@ -4,9 +4,9 @@
 * Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
 * practice development
 # Demo overview
-Demo Directory | Description
+Demo Directory | Description | Status
 ------------ | ------------- | ------------- 
-first-steps | First steps | Status
+first-steps | First steps | 
 demo-1 | First steps: Launching an EC2 instance | :metal:
 demo-2 | Using provisioner
 demo-2b | Using provisioner on a Windows instance
